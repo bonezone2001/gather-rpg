@@ -11,7 +11,9 @@ The game was made to meet a set of requirements, the main aspects that I added t
 - Enemies lol
 - Among many other things
 
-The specification didn't give me free reign to do whatever I wanted with the project so the cooler parts of the project were there just because I could fit them around the spec or they made my life easier when making the game itself. 
+The specification didn't give me free reign to do whatever I wanted with the project so the cooler parts of the project were there just because I could fit them around the spec or they made my life easier when making the game itself.
+
+I shall warn you that the game was never refactored and the code could definetly do with some optimizations and general code cleanup! This is just here for those that would like to make it better or use it in their future endeavours 
 
 
 Get Started
